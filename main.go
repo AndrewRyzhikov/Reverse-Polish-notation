@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/andreipimenov/golang-training-2021/03_map_interface_method/homework/notation"
-	"github.com/andreipimenov/golang-training-2021/03_map_interface_method/homework/stack"
 	"strconv"
 )
 
